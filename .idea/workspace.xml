@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4485f3b3-7fcb-4965-93de-bbd7a2ef61dc" name="Changes" comment="Transformation and Scaler update v2">
+    <list default="true" id="4485f3b3-7fcb-4965-93de-bbd7a2ef61dc" name="Changes" comment="Pridana 1D">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2Faza.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2Faza.ipynb" afterDir="false" />
     </list>
@@ -86,7 +86,9 @@
       <workItem from="1730118114013" duration="170000" />
       <workItem from="1730125059927" duration="19000" />
       <workItem from="1730543617040" duration="24161000" />
-      <workItem from="1730626754609" duration="1301000" />
+      <workItem from="1730626754609" duration="1754000" />
+      <workItem from="1730632228678" duration="11156000" />
+      <workItem from="1730654430861" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -136,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730574503241</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pridana 1D">
+      <option name="closed" value="true" />
+      <created>1730628402582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730628402582</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +170,7 @@
     <MESSAGE value="Faza 2 Start" />
     <MESSAGE value="Transformation and Scaler update" />
     <MESSAGE value="Transformation and Scaler update v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Transformation and Scaler update v2" />
+    <MESSAGE value="Pridana 1D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pridana 1D" />
   </component>
 </project>
