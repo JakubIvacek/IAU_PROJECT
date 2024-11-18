@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4485f3b3-7fcb-4965-93de-bbd7a2ef61dc" name="Changes" comment="Pridana 1D">
+    <list default="true" id="4485f3b3-7fcb-4965-93de-bbd7a2ef61dc" name="Changes" comment="Faza 2 Odovzdanie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2Faza.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2Faza.ipynb" afterDir="false" />
     </list>
@@ -89,6 +89,9 @@
       <workItem from="1730626754609" duration="1754000" />
       <workItem from="1730632228678" duration="11156000" />
       <workItem from="1730654430861" duration="6000" />
+      <workItem from="1730654476781" duration="31000" />
+      <workItem from="1730884185054" duration="78000" />
+      <workItem from="1731953266908" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -146,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730628402582</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Faza 2 Odovzdanie">
+      <option name="closed" value="true" />
+      <created>1730654489818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730654489818</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +182,7 @@
     <MESSAGE value="Transformation and Scaler update" />
     <MESSAGE value="Transformation and Scaler update v2" />
     <MESSAGE value="Pridana 1D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pridana 1D" />
+    <MESSAGE value="Faza 2 Odovzdanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Faza 2 Odovzdanie" />
   </component>
 </project>
