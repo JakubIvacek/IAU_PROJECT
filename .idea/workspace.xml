@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4485f3b3-7fcb-4965-93de-bbd7a2ef61dc" name="Changes" comment="3.1 - Done">
-      <change beforePath="$PROJECT_DIR$/.idea/IAU_PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IAU_PROJECT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3Faza.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3Faza.ipynb" afterDir="false" />
     </list>
@@ -99,6 +97,8 @@
       <workItem from="1732198169739" duration="6025000" />
       <workItem from="1732296242857" duration="578000" />
       <workItem from="1732367110886" duration="4459000" />
+      <workItem from="1732372132434" duration="19000" />
+      <workItem from="1732375550327" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
