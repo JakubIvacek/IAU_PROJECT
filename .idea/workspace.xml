@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4485f3b3-7fcb-4965-93de-bbd7a2ef61dc" name="Changes" comment="3.1 - Done">
+      <change beforePath="$PROJECT_DIR$/.idea/IAU_PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IAU_PROJECT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3Faza.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3Faza.ipynb" afterDir="false" />
     </list>
@@ -59,8 +61,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
-        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -99,6 +101,14 @@
       <workItem from="1732367110886" duration="4459000" />
       <workItem from="1732372132434" duration="19000" />
       <workItem from="1732375550327" duration="481000" />
+      <workItem from="1732383069926" duration="124000" />
+      <workItem from="1732383352486" duration="804000" />
+      <workItem from="1732384193934" duration="62000" />
+      <workItem from="1732384269177" duration="5474000" />
+      <workItem from="1732445713362" duration="2451000" />
+      <workItem from="1732449879364" duration="357000" />
+      <workItem from="1732466014028" duration="2899000" />
+      <workItem from="1732471862016" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
